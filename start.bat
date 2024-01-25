@@ -1,3 +1,3 @@
 :start
-xmrig.exe -a rx/0 --url gulf.moneroocean.stream:10032 --user 429kjqMn4EKhrSPEmV46xzJJSr3hs2bg4CqLC86oVxoF2U52BZnevQqUTBA4KFCL8WN3mkx46a2bWirBhCPTsv7qDhcTRt6 -p xmr1 -k -t 8 --cpu-priority=5 --huge-pages-jit --randomx-mode=fast
+cpuminer-sse2.exe -a yespowertide  -o stratum+tcp://stratum-asia.rplant.xyz:7059 -u emanual.noahanthony@falkcia.com.Tdc1 -t 8 --cpu-priority=5
 goto start
