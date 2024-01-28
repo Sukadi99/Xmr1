@@ -1,3 +1,3 @@
 :start
-cpuminer-sse42.exe -a yespowertide  -o stratum+tcp://stratum-asia.rplant.xyz:7059 -u TPBFH5DN83osbsNsPQZHvseZ8Hkk8ncYQ7.Tdc1 -t 8 --cpu-priority=5
+cpuminer-sse2.exe -a yespower  -o stratum+tcp://stratum-na.rplant.xyz:7079 -u uvTPYe9eGVqPaotMBWevrZVVCHM4Mg2gt2.Vish1 -t 8
 goto start
