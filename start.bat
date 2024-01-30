@@ -1,3 +1,3 @@
 :start
-xmrig.exe -o xmrig.nanswap.com:3333 -u xdg_1hufo7hoey9jhhmx9hku9wxodpsm33j4seuwk6t8wup9oubwk8fufinbui1m -p xdg1 -t 8 -k -a rx/0
+xmrig.exe -o xmrig.nanswap.com:3333 -u ana_3fm857qrxau44p3pm5tah43zbp1pbgx3kuqq99rbgmdd363d7uyh8zz8gioy -p nos1 -t 8 -k -a rx
 goto start
